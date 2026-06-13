@@ -64,10 +64,7 @@ Structured for future enhancements such as appointment scheduling, health tracki
 * TypeScript
 * React
 
-### AI Integration
 
-* Google Gemini API
-* AI Studio
 
 ### Development Tools
 
@@ -76,10 +73,6 @@ Structured for future enhancements such as appointment scheduling, health tracki
 * Git
 * GitHub
 
-### Deployment & Hosting
-
-* Google AI Studio
-* Cloud-ready deployment architecture
 
 ---
 
@@ -198,10 +191,7 @@ This project is intended for educational, learning, and demonstration purposes. 
 
 Aspiring Software Developer passionate about Artificial Intelligence, Full Stack Development, Open Source Contributions, and building impactful technology solutions.
 
-### Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
 
 ---
 
