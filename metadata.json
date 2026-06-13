@@ -1,0 +1,6 @@
+{
+  "name": "Aurora Mobile Health",
+  "description": "An elegant, Apple Health & Headspace-inspired health companion featuring water tracking, habit scheduling, sleep trends, and an interactive Voice AI coach.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

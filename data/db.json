@@ -1,0 +1,233 @@
+{
+  "users": {
+    "user_1781374083628": {
+      "id": "user_1781374083628",
+      "name": "khwahishseth",
+      "email": "khwahishseth@gmail.com",
+      "dailyWaterGoalMl": 2000,
+      "sleepGoalHours": 8,
+      "onboarded": true,
+      "avatarUrl": "https://api.dicebear.com/7.x/adventurer/svg?seed=khwahishseth%40gmail.com"
+    },
+    "user_1781374213737": {
+      "id": "user_1781374213737",
+      "name": "o",
+      "email": "khwahish@gmail.com",
+      "dailyWaterGoalMl": 2000,
+      "sleepGoalHours": 8,
+      "onboarded": true,
+      "avatarUrl": "https://api.dicebear.com/7.x/lorelei/svg?seed=o"
+    }
+  },
+  "waterLogs": {
+    "water_user_1781374083628_1781374083632_0": {
+      "id": "water_user_1781374083628_1781374083632_0",
+      "userId": "user_1781374083628",
+      "amountMl": 250,
+      "timestamp": "2026-06-13T18:08:03.631Z"
+    },
+    "water_user_1781374083628_1781374083632_1": {
+      "id": "water_user_1781374083628_1781374083632_1",
+      "userId": "user_1781374083628",
+      "amountMl": 500,
+      "timestamp": "2026-06-13T15:08:03.631Z"
+    },
+    "water_user_1781374083628_1781374083632_2": {
+      "id": "water_user_1781374083628_1781374083632_2",
+      "userId": "user_1781374083628",
+      "amountMl": 330,
+      "timestamp": "2026-06-13T12:08:03.631Z"
+    },
+    "water_user_1781374083628_1781374122414": {
+      "id": "water_user_1781374083628_1781374122414",
+      "userId": "user_1781374083628",
+      "amountMl": 500,
+      "timestamp": "2026-06-13T18:08:42.414Z"
+    },
+    "water_user_1781374213737_1781374213740_0": {
+      "id": "water_user_1781374213737_1781374213740_0",
+      "userId": "user_1781374213737",
+      "amountMl": 250,
+      "timestamp": "2026-06-13T18:10:13.740Z"
+    },
+    "water_user_1781374213737_1781374213740_1": {
+      "id": "water_user_1781374213737_1781374213740_1",
+      "userId": "user_1781374213737",
+      "amountMl": 500,
+      "timestamp": "2026-06-13T15:10:13.740Z"
+    },
+    "water_user_1781374213737_1781374213740_2": {
+      "id": "water_user_1781374213737_1781374213740_2",
+      "userId": "user_1781374213737",
+      "amountMl": 330,
+      "timestamp": "2026-06-13T12:10:13.740Z"
+    }
+  },
+  "habits": {
+    "habit_user_1781374083628_1": {
+      "id": "habit_user_1781374083628_1",
+      "userId": "user_1781374083628",
+      "name": "Morning Meditation",
+      "description": "Start the day with deep breaths and mental clarity",
+      "emoji": "🧘",
+      "frequency": "daily",
+      "reminderTime": "07:30",
+      "streak": 3,
+      "completedDates": [
+        "2026-06-12",
+        "2026-06-11"
+      ]
+    },
+    "habit_user_1781374083628_2": {
+      "id": "habit_user_1781374083628_2",
+      "userId": "user_1781374083628",
+      "name": "Hydrate and Stretch",
+      "description": "Stretch for 10 minutes and drink 300ml water",
+      "emoji": "🤸",
+      "frequency": "daily",
+      "reminderTime": "08:00",
+      "streak": 1,
+      "completedDates": []
+    },
+    "habit_user_1781374083628_3": {
+      "id": "habit_user_1781374083628_3",
+      "userId": "user_1781374083628",
+      "name": "Sleep Wind-down Routine",
+      "description": "No screens 45 minutes before sleeping",
+      "emoji": "🌌",
+      "frequency": "daily",
+      "reminderTime": "22:00",
+      "streak": 0,
+      "completedDates": []
+    },
+    "habit_user_1781374083628_1781374163770": {
+      "id": "habit_user_1781374083628_1781374163770",
+      "userId": "user_1781374083628",
+      "name": "Daily Body Stretching",
+      "description": "Release muscle tension and stimulate circadian immune flow.",
+      "emoji": "🤸",
+      "frequency": "daily",
+      "reminderTime": "08:30",
+      "streak": 0,
+      "completedDates": []
+    },
+    "habit_user_1781374213737_1": {
+      "id": "habit_user_1781374213737_1",
+      "userId": "user_1781374213737",
+      "name": "Morning Meditation",
+      "description": "Start the day with deep breaths and mental clarity",
+      "emoji": "🧘",
+      "frequency": "daily",
+      "reminderTime": "07:30",
+      "streak": 3,
+      "completedDates": [
+        "2026-06-12",
+        "2026-06-11"
+      ]
+    },
+    "habit_user_1781374213737_2": {
+      "id": "habit_user_1781374213737_2",
+      "userId": "user_1781374213737",
+      "name": "Hydrate and Stretch",
+      "description": "Stretch for 10 minutes and drink 300ml water",
+      "emoji": "🤸",
+      "frequency": "daily",
+      "reminderTime": "08:00",
+      "streak": 1,
+      "completedDates": []
+    },
+    "habit_user_1781374213737_3": {
+      "id": "habit_user_1781374213737_3",
+      "userId": "user_1781374213737",
+      "name": "Sleep Wind-down Routine",
+      "description": "No screens 45 minutes before sleeping",
+      "emoji": "🌌",
+      "frequency": "daily",
+      "reminderTime": "22:00",
+      "streak": 0,
+      "completedDates": []
+    }
+  },
+  "sleepLogs": {
+    "sleep_user_1781374083628_2026-06-13": {
+      "id": "sleep_user_1781374083628_2026-06-13",
+      "userId": "user_1781374083628",
+      "hours": 7.5,
+      "quality": 8,
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T18:08:03.631Z"
+    },
+    "sleep_user_1781374083628_2026-06-12": {
+      "id": "sleep_user_1781374083628_2026-06-12",
+      "userId": "user_1781374083628",
+      "hours": 6.8,
+      "quality": 6,
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:08:03.631Z"
+    },
+    "sleep_user_1781374083628_2026-06-11": {
+      "id": "sleep_user_1781374083628_2026-06-11",
+      "userId": "user_1781374083628",
+      "hours": 8.2,
+      "quality": 9,
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T18:08:03.631Z"
+    },
+    "sleep_user_1781374083628_2026-06-10": {
+      "id": "sleep_user_1781374083628_2026-06-10",
+      "userId": "user_1781374083628",
+      "hours": 5.5,
+      "quality": 4,
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T18:08:03.631Z"
+    },
+    "sleep_user_1781374083628_2026-06-09": {
+      "id": "sleep_user_1781374083628_2026-06-09",
+      "userId": "user_1781374083628",
+      "hours": 7,
+      "quality": 7,
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T18:08:03.631Z"
+    },
+    "sleep_user_1781374213737_2026-06-13": {
+      "id": "sleep_user_1781374213737_2026-06-13",
+      "userId": "user_1781374213737",
+      "hours": 7.5,
+      "quality": 8,
+      "date": "2026-06-13",
+      "timestamp": "2026-06-13T18:10:13.740Z"
+    },
+    "sleep_user_1781374213737_2026-06-12": {
+      "id": "sleep_user_1781374213737_2026-06-12",
+      "userId": "user_1781374213737",
+      "hours": 6.8,
+      "quality": 6,
+      "date": "2026-06-12",
+      "timestamp": "2026-06-12T18:10:13.740Z"
+    },
+    "sleep_user_1781374213737_2026-06-11": {
+      "id": "sleep_user_1781374213737_2026-06-11",
+      "userId": "user_1781374213737",
+      "hours": 8.2,
+      "quality": 9,
+      "date": "2026-06-11",
+      "timestamp": "2026-06-11T18:10:13.740Z"
+    },
+    "sleep_user_1781374213737_2026-06-10": {
+      "id": "sleep_user_1781374213737_2026-06-10",
+      "userId": "user_1781374213737",
+      "hours": 5.5,
+      "quality": 4,
+      "date": "2026-06-10",
+      "timestamp": "2026-06-10T18:10:13.740Z"
+    },
+    "sleep_user_1781374213737_2026-06-09": {
+      "id": "sleep_user_1781374213737_2026-06-09",
+      "userId": "user_1781374213737",
+      "hours": 7,
+      "quality": 7,
+      "date": "2026-06-09",
+      "timestamp": "2026-06-09T18:10:13.740Z"
+    }
+  }
+}
